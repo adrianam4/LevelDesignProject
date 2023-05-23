@@ -1,0 +1,6 @@
+2023/05/23-17:36:07.527 5f18 Creating DB C:/Users/adria/Desktop/LevelDesignProject/AnsiasTower/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/05/23-17:36:07.532 5f18 Reusing MANIFEST C:/Users/adria/Desktop/LevelDesignProject/AnsiasTower/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/23-17:38:33.309 6004 Level-0 table #5: started
+2023/05/23-17:38:33.316 6004 Level-0 table #5: 1167 bytes OK
+2023/05/23-17:38:33.318 6004 Delete type=0 #3
+2023/05/23-17:38:33.318 6004 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
